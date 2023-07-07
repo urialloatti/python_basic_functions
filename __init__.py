@@ -2,3 +2,5 @@
 
 :strings_and_numbers: Contains functions to read strings as numbers and convert numbers to strings.
 """
+
+__author__ = 'Uriel Alloatti'

@@ -1,3 +1,4 @@
+
 def validate_int(cad):
     """Validates if a string has the format of an int.
 
